@@ -7,3 +7,4 @@ Task: Use a separat potentiometer in controlling each of thecolor of the RGB led
 
 Picture of the setup:
 ![248534052_647618726225531_515822210448258576_n](https://user-images.githubusercontent.com/62445195/138742688-6c619952-2033-44c3-af80-6b2398ac4163.jpg){:height="50%" width="50%"}
+<img src="https://user-images.githubusercontent.com/62445195/138742688-6c619952-2033-44c3-af80-6b2398ac4163.jpgo" width="48">
