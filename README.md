@@ -14,4 +14,4 @@ Link to video: https://youtu.be/y__WG1r0Ofo
 Task: Building the traffic lights for a crosswalk. You will use 2 LEDs to represent the traffic lights for people (red and green) and 3 LEDs to represent the traffic lights for cars (red, yellow and green).
 
 Picture of the setup:<br>
-<img src="" width="300">
+<img src="https://github.com/Coakaze/IntroductionToRobotics/blob/main/tema2/253166847_1063096174520320_3493918040957907257_n.jpg" width="300">
