@@ -12,3 +12,6 @@ Link to video: https://youtu.be/y__WG1r0Ofo
 
 ## Homework 2
 Task: Building the traffic lights for a crosswalk. You will use 2 LEDs to represent the traffic lights for people (red and green) and 3 LEDs to represent the traffic lights for cars (red, yellow and green).
+
+Picture of the setup:<br>
+<img src="" width="300">
