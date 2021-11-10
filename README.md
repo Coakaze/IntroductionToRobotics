@@ -21,4 +21,5 @@ Task: Should detect EMF (check body and near outlets.  DO NOT IN-SERT INTO OUTLE
 
 Picture of the setup:<br>
 <img src="https://github.com/Coakaze/IntroductionToRobotics/blob/main/tema3/255068723_1210608239425969_941980406408733047_n.jpg" width="300">
+
 Link to video: https://www.youtube.com/watch?v=E1lqiMEGdpg
